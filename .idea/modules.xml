@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-2022-2023.iml" filepath="$PROJECT_DIR$/.idea/Java-2022-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw 08.02/cw 08.02.iml" filepath="$PROJECT_DIR$/cw 08.02/cw 08.02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw 1.12/cw 1.12.iml" filepath="$PROJECT_DIR$/cw 1.12/cw 1.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw 11.01/cw 11.01.iml" filepath="$PROJECT_DIR$/cw 11.01/cw 11.01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw 14.12/cw 14.12.iml" filepath="$PROJECT_DIR$/cw 14.12/cw 14.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw 15.02/cw 15.02.iml" filepath="$PROJECT_DIR$/cw 15.02/cw 15.02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw 21.12/cw 21.12.iml" filepath="$PROJECT_DIR$/cw 21.12/cw 21.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw 7.12/cw 7.12.iml" filepath="$PROJECT_DIR$/cw 7.12/cw 7.12.iml" />
+    </modules>
+  </component>
+</project>
